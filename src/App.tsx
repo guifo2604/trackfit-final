@@ -1,12 +1,12 @@
 import { Welcome } from './components/Welcome';
-import './App.css';
+import { ExerciseList } from './components/ExerciseList';
 
 function App() {
   return (
-    <div className="App">
+    <div style={{ fontFamily: 'Arial, sans-serif' }}>
       <Welcome />
+      <ExerciseList />
     </div>
   );
 }
-
 export default App;
