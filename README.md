@@ -1,5 +1,5 @@
-TRACKFIT  
+# TRACKFIT  
 
-# Guilherme Santos Fonseca  
-# RM 564232  
-# Fiz todas as partes sozinho  
+- Guilherme Santos Fonseca  
+- RM 564232  
+- Fiz todas as partes sozinho  
